@@ -53,7 +53,7 @@
         display: inline;
         padding-left: 30px;
         position: relative;
-        margin-bottom: 4px;
+       /*margin-bottom: 4px;*/
         border-radius: 5px;
         padding: 2px 8px 2px 28px;
         font-size: 14px;
